@@ -13,6 +13,7 @@ This project focuses on developing a chess piece identification system using Pyt
 - Python: The core programming language used for implementing the system.
 - TensorFlow: A powerful deep learning framework used to build, train, and deploy machine learning models.
 - NumPy: A library used for efficient mathematical operations and manipulation of multi-dimensional arrays.
+- PureBasic: A high-level programming language used for building the graphical user interface (GUI) of the chess piece identification system.
 
 ## Usage
 
